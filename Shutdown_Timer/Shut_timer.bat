@@ -1,0 +1,1 @@
+powershell -ExecutionPolicy bypass -File ShutdownTimer.ps1
